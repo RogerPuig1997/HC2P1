@@ -24,11 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uoc-advanced-html-css/uoc-boilerplate.git"
-  },
-  "author": {
-    "name": "Jordi Tarrida",
-    "email": "jorditarrida@uoc.edu"
+    "url": "git+https://github.com/RogerPuig1997/HC2P1.git"
   },
   "license": "MIT",
   "bugs": {
